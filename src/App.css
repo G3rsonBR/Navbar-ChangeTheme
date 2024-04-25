@@ -20,4 +20,5 @@
 #root{
   background-color: var(--secondary-color);
   height: 100vh;
+  transition: .5s all;
 }
